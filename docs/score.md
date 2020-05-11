@@ -1,5 +1,7 @@
 # Eklavya Task Score Board
 
+[Marks Distribution](marks_distribution.md)
+
 {% assign sorted = site.data.scoreboard | sort: "Score" | reverse %}
 
 | Rank | Team Name         | Assignment 1 | Assignment 2 | Assignment 3 | Assignment 4 | Score |  
