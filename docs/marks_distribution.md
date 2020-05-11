@@ -1,6 +1,7 @@
 # Marks Distribution
 
 * Task 1 -  
+  
   | File Name  |  Marks for correct Output  |  
   |:----------:|:--------------------------:|  
   |  data.txt  |           20               |  
@@ -8,6 +9,7 @@
   |   logic    |           10               |  
   
 * Task 2 -  
+  
   | File Name  |  Marks for correct Output  |  
   |:----------:|:--------------------------:|  
   |  data.txt  |           10               |  
@@ -18,6 +20,7 @@
   |   logic    |           20               |  
   
 * Task 3 -  
+  
   | File Name      |  Marks for correct Output  |  
   |:--------------:|:--------------------------:|  
   |  data.bin      |           10               |  
