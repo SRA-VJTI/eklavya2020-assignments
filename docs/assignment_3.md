@@ -40,6 +40,11 @@ refer the datasheet to know what impractical means for this lidar
 ```
 sudo apt-get install gnuplot
 ```
+* **For Windows**    
+
+```
+Follow this [link](https://www.youtube.com/watch?v=L-YPZDe_BYw&feature=youtu.be)
+```
 * Running `gnuplot` should result in:   
 
 ```bash
@@ -58,7 +63,6 @@ gnuplot>
 ```
 
 ### Plotting using gnuplot
-* **For Ubuntu**
 
 ```bash
 gnuplot> plot "./distance.txt"  
