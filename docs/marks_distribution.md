@@ -32,7 +32,7 @@
   |     logic      |           30               |  
   |     TOTAL      |           100              |  
   
-* Task 1 -  
+* Task 4 -  
   
   |    Output      |  Marks for correct Output  |  
   |:---------------|:--------------------------:|  
@@ -42,6 +42,9 @@
   |Bonus Quest Diag|           20               |  
   |     logic      |           50               |  
   |     TOTAL      |          150               |  
+  
 **Bonus Question Diagram should show the placement of sensors with dimensions, assume line width to be 3cm**  
+**It should also mention the condition based on your sensors for end detection**  
+**Submit image or pdf for this**  
   
 [Go back](score.md)
