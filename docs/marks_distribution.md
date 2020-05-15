@@ -32,4 +32,16 @@
   |     logic      |           30               |  
   |     TOTAL      |           100              |  
   
+* Task 1 -  
+  
+  |    Output      |  Marks for correct Output  |  
+  |:---------------|:--------------------------:|  
+  |    Turns       |           30               |  
+  |Junction Type   |           40               |  
+  |     Direction  |           10               |  
+  |Bonus Quest Diag|           20               |  
+  |     logic      |           50               |  
+  |     TOTAL      |          150               |  
+**Bonus Question Diagram should show the placement of sensors with dimensions, assume line width to be 3cm**  
+  
 [Go back](score.md)
