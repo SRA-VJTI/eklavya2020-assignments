@@ -43,7 +43,7 @@
   |     logic      |           50               |  
   |     TOTAL      |          150               |  
   
-**Bonus Question Diagram should show the placement of sensors with dimensions** 
+**Bonus Question Diagram should show the placement of sensors with dimensions**   
 **Assume line width to be 3cm**  
 **It should also mention the condition based on your sensors for end detection**  
 **Include image or pdf for this in zip file**  
