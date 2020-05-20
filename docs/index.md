@@ -1,4 +1,5 @@
 * # [Tasks](tasks.md)
 * # [Selected Teams](score.md)
-* # [Submit your solutions](https://forms.gle/bAvTB6fC3fPTrPgMA)
+* # [Submit your Idea](https://docs.google.com/forms/d/e/1FAIpQLSfzQCovHY56yL1MMyfeYl7yRa0JfhjsPrYtr3XVl4uF8gFq4w/viewform?usp=sf_link)
+* # [Fill this form](form.html)
 * # [Solutions](solutions.md)
