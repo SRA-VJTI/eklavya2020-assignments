@@ -5,7 +5,7 @@
 |       Mentors      |    Team Name    |                                Idea Title                                | Time Slot |
 |:-------------------|:----------------|:-------------------------------------------------------------------------|-----------|
 | Vedant Paranjape   | Slayers         | Maze Solving Bot                                                         | 1100-1130 |
-| Omkar S            | SuperNova2.0    | Automated Cannon                                                         | 1130-1230 |
+| Omkar S            | SuperNova2.0    | Automated Cannon                                                         | 1130-1200 |
 | Dhruva G           | Eklavya         | Self driving simulator                                                   | 1230-1300 |
 | Lukesh             | C Experts       | Text Recognition System                                                  | 1500-1530 |
 | Sravan Chittupalli | PS              | Self Driving Car                                                         | 1530-1600 |
@@ -23,7 +23,7 @@
 |    Mentors   |    Team Name    |                                             Idea Title                                             | Time Slot |
 |:-------------|:----------------|:---------------------------------------------------------------------------------------------------|-----------|
 | Neha         | Innovators      | line following bot with image processing                                                           | 1100-1130 |
-| Abhinav      | ZAPS            | Moodylyser - Image Processing Project for Facial Recognition, Emotion Detection and Classification | 1130-1230 |
+| Abhinav      | ZAPS            | Moodylyser - Image Processing Project for Facial Recognition, Emotion Detection and Classification | 1130-1200 |
 | Akshat       | Toroid Warriors | Count and identify fruits and vegetables.                                                          | 1230-1300 |
 | Saharsh Jain | Team A          | Smart switch board with Alexa connectivity                                                         | 1500-1530 |
 | Neha         | Tech Tycoons    | Fire detection using drone simulation                                                              | 1530-1600 |
