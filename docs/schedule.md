@@ -9,7 +9,7 @@
 | Dhruva G           | Eklavya         | Self driving simulator                                                   | 1230-1300 |
 | Lukesh             | C Experts       | Text Recognition System                                                  | 1500-1530 |
 | Sravan Chittupalli | PS              | Self Driving Car                                                         | 1530-1600 |
-| Dhruva G           | Robonauts       | Healthcare Management                                                    | 1600-1630 |
+| Dhruva G           | Robonauts       | Quadraped simulation                                                     | 1600-1630 |
 | Saharsh Jain       | X Æ A-12        | IMITECIO                                                                 | 1630-1700 |
 | Vedant Paranjape   | -1              | Gesture controlled mouse using OpenCV                                    | 1700-1730 |
 | Preeti Jain        | SimBotix        | Simulation of two Pick and place robots loading and unloading a conveyor | 1730-1800 |
