@@ -5,7 +5,7 @@
 | Slayers                    | Labyrinth Simulation - Vrep                                           | Bhumika     | Pratam     | -           | -        | Lukesh / Jitesh / Vedant            | Omkar S            |
 | SuperNova2.0 + Python      | Object detection and Localization in 3d For Ball thrower bot (Opencv) | Dhairya     | Prathamesh | Mayuresh    | Atharva  | Omkar S / Preeti                    |                    |
 | XÆ A-12 + 0000fff0x        | Human Pose replication in 3d and game                                 | Dhruvi      | Sarah      | Shreyas     | -        | Saharsh / Akshat                    | Manas              |
-| -1 + Toroid Warriors       | Gesture controlled mouse using OpenCV                                 | Kush        | Sahil      | Shubham     | -        | vedant / sravan                     | preeti             |
+| -1 + Toroid Warriors       | Gesture controlled mouse using OpenCV                                 | Kush        | Sahil      | Shubham     | -        | Vedant / sravan                     | preeti             |
 | Gaut_Am                    | Mouse control using ESP32 and MPU in 3d                               | Gautam      | Aman       | -           | -        | Vedant / Shubham / Omkar B / Sravan | Dhruva             |
 | SimBotix                   | Pick and Place Bot - Vrep                                             | Reshmika    | Tejal      | -           | -        | Preeti / Manas                      | -                  |
 | C Experts + Robonauts      | Quadruped Simulation - Vrep                                           | Chaitravi   | Sakshi     | Rakesh      | Chahat   | Jitesh / Shamit                     | Manas              |
