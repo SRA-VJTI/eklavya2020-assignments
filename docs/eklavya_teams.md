@@ -11,7 +11,7 @@
 | C Experts + Robonauts      | Quadruped Simulation - Vrep                                           | Chaitravi   | Sakshi     | Rakesh      | Chahat   | Jitesh / Shamit                     |
 | PS + Team Kerbecks         | Obstacle Avoidance + goal to goal  navigation - Vrep                  | Saurabh     | Kedar      | Sanika      | Parvathy | Sanath / Maunil/ Neha               |
 | Eklavya + Innovators       | Micromouse simulation - Vrep                                          | Mann        | Dushant    | Mithilesh   | Harsh    | Dhruva / Omkar S                    |
-| N.O.V.A + Curiosity Doors  | Multi class classification                                            | Tushar      | Mohak      | Purvank     |          | Rahul/ Abhinav/ Shantanu            |
+| N.O.V.A + Curiosity Doors  | Multi class classification                                            | Tushar      | Mohak      | Purvank     |    -     | Rahul/ Abhinav/ Shantanu            |
 | ZAPS + Binary Beasts       | Moodylyser - Facial Recognition, Emotion Detection and Classification | Saad        | Anushree   | Akshay      | Siddhant | Abhinav / Shantanu                  |
 | Team A                     | Ben eater's 8 bit computer simulation                                 | Ninad       | Aaditya    | -           | -        | Omkar B / Lukesh / Vedant           |
 | Deep learner + Tronixstars | Automated Parking System                                              | Gaurav      | Karthik    | Sanghamitra | Mayuri   | Manas                               |
