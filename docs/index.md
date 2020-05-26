@@ -1,5 +1,6 @@
 * # [Tasks](tasks.md)
-* # [Selected Teams](score.md)
+* # [Final Selected teams](eklavya_teams.md)
+* # [Final Score](score.md)
 * # [Interview Schedule](schedule.md)
 * # [Fill this form](form.html)
 * # [Solutions](solutions.md)
