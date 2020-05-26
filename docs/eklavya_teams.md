@@ -14,7 +14,7 @@
 | N.O.V.A + Curiosity Doors  | Multi class classification                                            | Tushar      | Mohak      | Purvank     |    -     | Rahul/ Abhinav/ Shantanu            |
 | ZAPS + Binary Beasts       | Moodylyser - Facial Recognition, Emotion Detection and Classification | Saad        | Anushree   | Akshay      | Siddhant | Abhinav / Shantanu                  |
 | Team A                     | Ben eater's 8 bit computer simulation                                 | Ninad       | Aaditya    | -           | -        | Omkar B / Lukesh / Vedant           |
-| Deep learner + Tronixstars | Automated Parking System                                              | Gaurav      | Karthik    | Sanghamitra | Mayuri   | Manas / Akshat / Saharsh                |
+| Deep learner + Tronixstars | Automated Parking System                                              | Gaurav      | Karthik    | Sanghamitra | Mayuri   | Manas / Akshat / Saharsh / Omkar S           |
 | Tech Tycoons + Robotech    | Drone simulation - Vrep                                               | Prachiti    | Prerna     | Khushi      | Samina   | Lukesh / Omkar S                    |
 | RoboMinds + RoboSapiens    | Desired robotic motion using odometry - VREP                          | Maitri Amin | Ruchika    | Jatin       | Sandesh  | Shamit / Shubham                    |
 
